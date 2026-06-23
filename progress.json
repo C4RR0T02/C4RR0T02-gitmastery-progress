@@ -331,15 +331,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ff-undo",
-    "started_at": 1769503424.329794,
-    "completed_at": 1769503426.887815,
-    "comments": [
-      "You have successfully undone the merge of branch 'others'."
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "branch-compare",
     "started_at": 1769503882.698636,
     "completed_at": 1769503884.171275,
